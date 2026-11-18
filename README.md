@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Management-ITSM-Operations/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License" /></a>
@@ -64,84 +64,84 @@ The following table summarizes the market leaders in commercial SaaS ITSM & ITOM
 
 ## 💻 Open-Source GitHub Projects
 
-Explore sovereign, self-hosted alternatives for ITIL service delivery, infrastructure tracking, CMDB modeling, and automated remediation. Repositories in each section are sorted in **descending order by GitHub star count**.
+Explore sovereign, self-hosted alternatives for ITIL service delivery, infrastructure tracking, CMDB modeling, and automated remediation. Repositories in each section are sorted in **descending order by GitHub Stars_Count**.
 
 ### 🎫 Service Desk, ITIL Ticketing & Helpdesks
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Modern omnichannel customer and IT support platform connecting email, live chat, Slack, and WhatsApp with team collaboration tools. |
-| **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** | [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | Open-source PHP/Symfony enterprise service desk and ticketing platform offering mailbox synchronization, knowledge base publishing, and workflow rules. |
-| **[GLPI](https://github.com/glpi-project/glpi)** | [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) | Flagship open-source ITSM and IT Asset Management (ITAM) platform featuring full ITIL helpdesk ticketing, native CMDB, software inventory, and SLA tracking. |
-| **[Zammad](https://github.com/zammad/zammad)** | [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | Modern, fast open-source helpdesk and IT operations ticketing system with multi-channel intake (email, chat, phone, Slack, Telegram) and Elasticsearch indexing. |
-| **[FreeScout](https://github.com/freescout-helpdesk/freescout)** | [![GitHub stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers) | Self-hosted, ultra-lightweight open-source help desk and shared mailbox extensible with SLA, LDAP, knowledge base, and live chat modules. |
-| **[osTicket](https://github.com/osTicket/osTicket)** | [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers) | Widely deployed, lightweight open-source support ticketing system seamlessly routing operational requests created via email, web forms, and APIs. |
-| **[iTop](https://github.com/Combodo/iTop)** | [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers) | Comprehensive, web-based open-source ITIL ITSM and CMDB solution built by Combodo for managing incidents, changes, known errors, and infrastructure impact analysis. |
-| **[Request Tracker (RT)](https://github.com/bestpractical/rt)** | [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers) | Enterprise-grade open-source ticket-tracking system trusted by universities and IT operations teams for granular permissions, custom lifecycles, and email handling. |
-| **[Znuny](https://github.com/znuny/Znuny)** | [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers) | Battle-tested open-source enterprise service desk (continuation of OTRS Community Edition) engineered for high-volume IT support queues and SLA workflows. |
-| **[OTOBO](https://github.com/RotherOSS/otobo)** | [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers) | Active open-source fork of OTRS featuring a modernized customer portal, Docker-native deployment, ticket automation, and ITSM/CMDB extensions. |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Modern omnichannel customer and IT support platform connecting email, live chat, Slack, and WhatsApp with team collaboration tools. |
+| **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** | [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | Open-source PHP/Symfony enterprise service desk and ticketing platform offering mailbox synchronization, knowledge base publishing, and workflow rules. |
+| **[GLPI](https://github.com/glpi-project/glpi)** | [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) | Flagship open-source ITSM and IT Asset Management (ITAM) platform featuring full ITIL helpdesk ticketing, native CMDB, software inventory, and SLA tracking. |
+| **[Zammad](https://github.com/zammad/zammad)** | [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | Modern, fast open-source helpdesk and IT operations ticketing system with multi-channel intake (email, chat, phone, Slack, Telegram) and Elasticsearch indexing. |
+| **[FreeScout](https://github.com/freescout-helpdesk/freescout)** | [![GitHub_Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers) | Self-hosted, ultra-lightweight open-source help desk and shared mailbox extensible with SLA, LDAP, knowledge base, and live chat modules. |
+| **[osTicket](https://github.com/osTicket/osTicket)** | [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers) | Widely deployed, lightweight open-source support ticketing system seamlessly routing operational requests created via email, web forms, and APIs. |
+| **[iTop](https://github.com/Combodo/iTop)** | [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers) | Comprehensive, web-based open-source ITIL ITSM and CMDB solution built by Combodo for managing incidents, changes, known errors, and infrastructure impact analysis. |
+| **[Request Tracker (RT)](https://github.com/bestpractical/rt)** | [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers) | Enterprise-grade open-source ticket-tracking system trusted by universities and IT operations teams for granular permissions, custom lifecycles, and email handling. |
+| **[Znuny](https://github.com/znuny/Znuny)** | [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers) | Battle-tested open-source enterprise service desk (continuation of OTRS Community Edition) engineered for high-volume IT support queues and SLA workflows. |
+| **[OTOBO](https://github.com/RotherOSS/otobo)** | [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers) | Active open-source fork of OTRS featuring a modernized customer portal, Docker-native deployment, ticket automation, and ITSM/CMDB extensions. |
 
 ---
 
 ### 🗄️ IT Asset Management (ITAM), CMDB & Discovery
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[NetBox](https://github.com/netbox-community/netbox)** | [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers) | Leading open-source source of truth for network infrastructure, IPAM, and Data Center Infrastructure Management (DCIM), widely used as an infrastructure CMDB. |
-| **[Snipe-IT](https://github.com/snipe/snipe-it)** | [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) | Industry-standard open-source IT Asset Management (ITAM) system that pairs with open-source service desks for hardware/license lifecycle and custody tracking. |
-| **[Ralph](https://github.com/allegro/ralph)** | [![GitHub stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers) | Full-featured open-source Asset Management, DCIM, and CMDB system engineered by Allegro for tracking data center and back-office hardware lifecycles. |
-| **[Nautobot](https://github.com/nautobot/nautobot)** | [![GitHub stars](https://img.shields.io/github/stars/nautobot/nautobot?style=social&color=white)](https://github.com/nautobot/nautobot/stargazers) | Network Source of Truth and Network Automation Platform acting as an extensible CMDB with programmatic GraphQL APIs and event-driven automation. |
-| **[GLPI Agent](https://github.com/glpi-project/glpi-agent)** | [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi-agent?style=social&color=white)](https://github.com/glpi-project/glpi-agent/stargazers) | Cross-platform discovery and inventory agent collecting hardware, software, network SNMP, and hypervisor data for GLPI and open-source ITSM platforms. |
-| **[OCS Inventory NG](https://github.com/pluginsGLPI/ocsinventoryng)** | [![GitHub stars](https://img.shields.io/github/stars/pluginsGLPI/ocsinventoryng?style=social&color=white)](https://github.com/pluginsGLPI/ocsinventoryng/stargazers) | Open-source automated hardware and software inventory discovery tool feeding live asset telemetry into GLPI and iTop CMDBs. |
+| **[NetBox](https://github.com/netbox-community/netbox)** | [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers) | Leading open-source source of truth for network infrastructure, IPAM, and Data Center Infrastructure Management (DCIM), widely used as an infrastructure CMDB. |
+| **[Snipe-IT](https://github.com/snipe/snipe-it)** | [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) | Industry-standard open-source IT Asset Management (ITAM) system that pairs with open-source service desks for hardware/license lifecycle and custody tracking. |
+| **[Ralph](https://github.com/allegro/ralph)** | [![GitHub_Stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers) | Full-featured open-source Asset Management, DCIM, and CMDB system engineered by Allegro for tracking data center and back-office hardware lifecycles. |
+| **[Nautobot](https://github.com/nautobot/nautobot)** | [![GitHub_Stars](https://img.shields.io/github/stars/nautobot/nautobot?style=social&color=white)](https://github.com/nautobot/nautobot/stargazers) | Network Source of Truth and Network Automation Platform acting as an extensible CMDB with programmatic GraphQL APIs and event-driven automation. |
+| **[GLPI Agent](https://github.com/glpi-project/glpi-agent)** | [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi-agent?style=social&color=white)](https://github.com/glpi-project/glpi-agent/stargazers) | Cross-platform discovery and inventory agent collecting hardware, software, network SNMP, and hypervisor data for GLPI and open-source ITSM platforms. |
+| **[OCS Inventory NG](https://github.com/pluginsGLPI/ocsinventoryng)** | [![GitHub_Stars](https://img.shields.io/github/stars/pluginsGLPI/ocsinventoryng?style=social&color=white)](https://github.com/pluginsGLPI/ocsinventoryng/stargazers) | Open-source automated hardware and software inventory discovery tool feeding live asset telemetry into GLPI and iTop CMDBs. |
 
 ---
 
 ### 🤖 Runbook Automation & IT Operations Orchestration
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[Semaphore UI](https://github.com/semaphoreui/semaphore)** | [![GitHub stars](https://img.shields.io/github/stars/semaphoreui/semaphore?style=social&color=white)](https://github.com/semaphoreui/semaphore/stargazers) | Modern open-source web interface for Ansible, Terraform, and OpenTofu allowing IT operations teams to execute approved runbooks and deployments safely. |
-| **[StackStorm (st2)](https://github.com/StackStorm/st2)** | [![GitHub stars](https://img.shields.io/github/stars/StackStorm/st2?style=social&color=white)](https://github.com/StackStorm/st2/stargazers) | Event-driven open-source operations automation platform ("IFTTT for Ops") connecting monitoring alerts, ITSM tickets, and auto-remediation workflows. |
-| **[Rundeck](https://github.com/rundeck/rundeck)** | [![GitHub stars](https://img.shields.io/github/stars/rundeck/rundeck?style=social&color=white)](https://github.com/rundeck/rundeck/stargazers) | Open-source runbook automation and operational orchestration platform enabling self-service incident remediation and automated change execution. |
+| **[Semaphore UI](https://github.com/semaphoreui/semaphore)** | [![GitHub_Stars](https://img.shields.io/github/stars/semaphoreui/semaphore?style=social&color=white)](https://github.com/semaphoreui/semaphore/stargazers) | Modern open-source web interface for Ansible, Terraform, and OpenTofu allowing IT operations teams to execute approved runbooks and deployments safely. |
+| **[StackStorm (st2)](https://github.com/StackStorm/st2)** | [![GitHub_Stars](https://img.shields.io/github/stars/StackStorm/st2?style=social&color=white)](https://github.com/StackStorm/st2/stargazers) | Event-driven open-source operations automation platform ("IFTTT for Ops") connecting monitoring alerts, ITSM tickets, and auto-remediation workflows. |
+| **[Rundeck](https://github.com/rundeck/rundeck)** | [![GitHub_Stars](https://img.shields.io/github/stars/rundeck/rundeck?style=social&color=white)](https://github.com/rundeck/rundeck/stargazers) | Open-source runbook automation and operational orchestration platform enabling self-service incident remediation and automated change execution. |
 
 ---
 
 ### 📊 Incident Response, AIOps & Observability
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | Fancy self-hosted monitoring tool providing status pages, multi-protocol uptime checks (HTTP, TCP, Ping, DNS), and direct alerting to incident response tools. |
-| **[Keep](https://github.com/keephq/keep)** | [![GitHub stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers) | Open-source AIOps and alert management platform bridging infrastructure monitoring alerts with ITSM ticketing, deduplication, and automated workflows. |
+| **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | Fancy self-hosted monitoring tool providing status pages, multi-protocol uptime checks (HTTP, TCP, Ping, DNS), and direct alerting to incident response tools. |
+| **[Keep](https://github.com/keephq/keep)** | [![GitHub_Stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers) | Open-source AIOps and alert management platform bridging infrastructure monitoring alerts with ITSM ticketing, deduplication, and automated workflows. |
 
 ---
 
 ### 🖥️ Remote Desktop, Endpoint Support & RMM
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[RustDesk](https://github.com/rustdesk/rustdesk)** | [![GitHub stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers) | Open-source, self-hosted remote desktop software enabling IT service desk and operations engineers to securely access and troubleshoot user endpoints. |
-| **[Tactical RMM](https://github.com/amidaware/tacticalrmm)** | [![GitHub stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers) | Comprehensive open-source Remote Monitoring & Management (RMM) platform built with Django and Vue, providing automated patching, scripting, and remote terminal access. |
+| **[RustDesk](https://github.com/rustdesk/rustdesk)** | [![GitHub_Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers) | Open-source, self-hosted remote desktop software enabling IT service desk and operations engineers to securely access and troubleshoot user endpoints. |
+| **[Tactical RMM](https://github.com/amidaware/tacticalrmm)** | [![GitHub_Stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers) | Comprehensive open-source Remote Monitoring & Management (RMM) platform built with Django and Vue, providing automated patching, scripting, and remote terminal access. |
 
 ---
 
 ### 📚 Knowledge Base, Documentation & Portals
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[Outline](https://github.com/outline/outline)** | [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | Fast, collaborative team knowledge base designed for internal IT operations SOPs, runbook guides, and engineering documentation. |
-| **[Backstage](https://github.com/backstage/backstage)** | [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Open platform built by Spotify for creating internal developer and self-service portals, unifying service catalogs, docs, and access requests. |
-| **[Wiki.js](https://github.com/requarks/wiki)** | [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) | Modern and extensible open-source wiki software built on Node.js with Markdown, Git storage backend, and enterprise SSO integration. |
-| **[BookStack](https://github.com/BookStackApp/BookStack)** | [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) | Simple, self-hosted platform for storing and organizing IT documentation, disaster recovery SOPs, and service desk knowledge bases. |
+| **[Outline](https://github.com/outline/outline)** | [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | Fast, collaborative team knowledge base designed for internal IT operations SOPs, runbook guides, and engineering documentation. |
+| **[Backstage](https://github.com/backstage/backstage)** | [![GitHub_Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Open platform built by Spotify for creating internal developer and self-service portals, unifying service catalogs, docs, and access requests. |
+| **[Wiki.js](https://github.com/requarks/wiki)** | [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) | Modern and extensible open-source wiki software built on Node.js with Markdown, Git storage backend, and enterprise SSO integration. |
+| **[BookStack](https://github.com/BookStackApp/BookStack)** | [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) | Simple, self-hosted platform for storing and organizing IT documentation, disaster recovery SOPs, and service desk knowledge bases. |
 
 ---
 
 ### 🔐 Identity, Single Sign-On & Directory Sync
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 | :--- | :--- | :--- |
-| **[Keycloak](https://github.com/keycloak/keycloak)** | [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Industry-standard open-source Identity and Access Management (IAM) providing Single Sign-On (SSO), SAML, and OpenID Connect for ITSM platforms. |
-| **[Authentik](https://github.com/goauthentik/authentik)** | [![GitHub stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) | Open-source Identity Provider focused on flexibility and ease of integration into modern cloud-native and Kubernetes self-hosted service desks. |
-| **[LLDAP](https://github.com/lldap/lldap)** | [![GitHub stars](https://img.shields.io/github/stars/lldap/lldap?style=social&color=white)](https://github.com/lldap/lldap/stargazers) | Lightweight LDAP implementation designed for small to medium setups, easily powering user and group synchronization into GLPI, Zammad, and Nextcloud. |
+| **[Keycloak](https://github.com/keycloak/keycloak)** | [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Industry-standard open-source Identity and Access Management (IAM) providing Single Sign-On (SSO), SAML, and OpenID Connect for ITSM platforms. |
+| **[Authentik](https://github.com/goauthentik/authentik)** | [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) | Open-source Identity Provider focused on flexibility and ease of integration into modern cloud-native and Kubernetes self-hosted service desks. |
+| **[LLDAP](https://github.com/lldap/lldap)** | [![GitHub_Stars](https://img.shields.io/github/stars/lldap/lldap?style=social&color=white)](https://github.com/lldap/lldap/stargazers) | Lightweight LDAP implementation designed for small to medium setups, easily powering user and group synchronization into GLPI, Zammad, and Nextcloud. |
 
 ---
 
@@ -153,7 +153,7 @@ Contributions are welcome! Please follow these guidelines to keep the list high 
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
 3. 📝 **Add or edit entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-IT-Service-Management-ITSM-Operations/README.md)**:
    - For **SaaS**: Ensure exact pricing, precise free-tier/trial limits, company size metrics, and official website links are provided.
-   - For **Open-Source**: Include the repository link, star badge (`style=social&color=white` linking to the stargazers page), and maintain descending star order within each category.
+   - For **Open-Source**: Include the repository link, Stars_Badge (`style=social&color=white` linking to the stargazers page), and maintain descending star order within each category.
 4. 🚀 **Submit a Pull Request** with a concise description of the tool and why it adds value to the ITSM/ITOM ecosystem.
 
 ---
