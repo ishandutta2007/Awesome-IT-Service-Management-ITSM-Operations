@@ -64,7 +64,7 @@ The following table summarizes the market leaders in commercial SaaS ITSM & ITOM
 
 ## 💻 Open-Source GitHub Projects
 
-Explore sovereign, self-hosted alternatives for ITIL service delivery, infrastructure tracking, CMDB modeling, and automated remediation. Repositories in each section are sorted in **descending order by GitHub Stars_Count**.
+Explore sovereign, self-hosted alternatives for ITIL service delivery, infrastructure tracking, CMDB modeling, and automated remediation. Repositories in each section are sorted in **descending order by GitHub_Stars_Count**.
 
 ### 🎫 Service Desk, ITIL Ticketing & Helpdesks
 
